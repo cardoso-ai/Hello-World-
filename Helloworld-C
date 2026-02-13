@@ -1,0 +1,7 @@
+#include <stdio.h> // entrada e saída
+
+int main() {
+    // printf é a função para imprimir na tela
+    printf("Hello, World!");
+    return 0; // Indica que o programa terminou com sucesso
+}
